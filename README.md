@@ -1,2 +1,3 @@
-# maildir-mung-tool - a maildir modification and analysis util
+# maildir-mung-tool
+## A maildir modification and analysis util
 
